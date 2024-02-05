@@ -1,3 +1,3 @@
 # ChatBot
 
-## Streamlit rum app.py
+## Streamlit run app.py to display the ChatBot 
